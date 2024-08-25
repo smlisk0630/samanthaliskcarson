@@ -3,12 +3,10 @@ layout: post
 title: Make E-Waste Your New Year’s Resolution
 tags: zerowaste sustainability life electronics NorthCarolina
 ---
-<div>
   <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/broken_mobile_phones.jpg" alt="Several broken mobile phones">
     <figcaption class="text-center">
       Broken mobile phones. Photo by andreahuyoff on Pixabay.
     </figcaption>
-</div>
 
 
 Another set of holidays has come and gone. Thinking back on this holiday season, did you receive any electronic gifts? Maybe you received a “smart” device for the first time, or perhaps you got an upgrade on an older device. If so, this is an excellent time to decide what your priorities will be for the next year, including how long you want to hold onto electronics and how you can responsibly dispose of old or unused ones to prevent electronic waste, or e-waste, from building up in landfills.
