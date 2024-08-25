@@ -3,11 +3,12 @@ layout: post
 title: Make E-Waste Your New Year’s Resolution
 tags: zerowaste sustainability life electronics NorthCarolina
 ---
+<div>
   <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/broken_mobile_phones.jpg" alt="Several broken mobile phones">
-    <figcaption class="text-center">
+    <figcaption>
       Broken mobile phones. Photo by andreahuyoff on Pixabay.
     </figcaption>
-
+</div>
 
 Another set of holidays has come and gone. Thinking back on this holiday season, did you receive any electronic gifts? Maybe you received a “smart” device for the first time, or perhaps you got an upgrade on an older device. If so, this is an excellent time to decide what your priorities will be for the next year, including how long you want to hold onto electronics and how you can responsibly dispose of old or unused ones to prevent electronic waste, or e-waste, from building up in landfills.
 
@@ -25,7 +26,12 @@ There are many actions individuals and businesses can take to begin solving the 
 
 However, what about situations such as the holidays when many people receive replacement or upgraded devices as gifts? What’s the best way to dispose of the older item without throwing it away?
 
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/discarded_computers.jpg">
+<div>
+  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/discarded_computers.jpg" alt="Discarded computer towers and monitors in dumpster">
+    <figcaption>
+      Computer equipment collected as scrap metal. Photo by dokumol on Pixabay.
+    </figcaption>
+</div>
 
 ### Many Options to Dispose of Devices
 There are many options for parting with old or unused devices, and fortunately, many of these options are free of charge.
@@ -52,7 +58,12 @@ If it’s a mobile device you’re looking to dispose of, many retailers and car
 
 If you’d like to make a little extra money in addition to keeping your old device out of the landfill, you can sell it. Facebook Marketplace, Craigslist, and eBay are often used for this purpose, but there are also services such as [Decluttr](https://www.decluttr.com/), [SellCell](https://www.sellcell.com/), and [EcoATM](https://www.ecoatm.com/) that you can try. If you do try to sell your device, [beware of scams](https://consumer.ftc.gov/consumer-alerts/2022/07/selling-stuff-online-heres-how-avoid-scam) and use caution in the transaction.
 
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/person_repairing_computer-part.jpg">
+<div>
+  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/person_repairing_computer-part.jpg" alt="A hand repairing a circuit board">
+    <figcaption>
+      Repairing a circuitboard. Photo by jarmoluk on Pixabay.
+    </figcaption>
+</div>
 
 #### Repair
 
