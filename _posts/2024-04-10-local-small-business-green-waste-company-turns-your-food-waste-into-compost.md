@@ -3,8 +3,12 @@ layout: post
 title: Local Small Business Green Waste Company Turns Your Food Waste Into Compost
 tags: zerowaste composting NorthCarolina smallbusiness localbusiness
 ---
-
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/green_waste_company_container.png">
+<div>
+	<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/green_waste_company_container.png" alt="Black bucket with green letters stamped on it spelling out hashtag green waste">
+		<figcaption class="text-center">
+			(Green Waste Company compost container. Source: Samantha Carson)
+		</figcaption>
+</div>
 
 When I was growing up, I spent a great deal of time at my grandparents' house. They taught me the basics of gardening and caring for our small patch of the world around us, and I have tried to emulate them in my own life. However, they had one practice that I have never tried myself until now: composting.
 ### Waste Not, Want Not
@@ -24,7 +28,12 @@ My grandparents had a compost pile in a wooded area behind their backyard, near 
 
 Although I knew of this practice, I had never attempted it myself as I have never had a garden. As I have become more aware of the impact of human actions (and inaction) on the earth, I have begun wanting to do more. The impact of food waste is considerable, affecting our bank accounts as well as our planet:
 
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/landfill-methane-epa-scaled.jpeg">
+<div>
+	<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/landfill-methane-epa-scaled.jpeg" alt="Infographic from the EPA stating that wasted food causes 58% of methane emissions from municipal solid waste landfills">
+		<figcaption class="text-center">
+			(Wasted food causes 58% of methane emissions from municipal solid waste landfills. Source: EPA)
+		</figcaption>
+</div>
 
 - The USDA [estimates](https://www.usda.gov/foodlossandwaste/why) that reducing food waste can save a household an average of roughly $370 *per person* every year.
 - In 2021, the EPA [estimated](https://www.epa.gov/system/files/documents/2021-11/from-farm-to-kitchen-the-environmental-impacts-of-u.s.-food-waste_508-tagged.pdf) that food waste comprised 24 percent of municipal solid waste, making it the [largest category](https://www.epa.gov/sustainable-management-food/sustainable-management-food-basics) of material found in municipal landfills.
@@ -37,7 +46,12 @@ It was time to take action.
 
 ### Green Waste Company
 
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/green_waste_company_logo.jpeg">
+<div>
+	<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/green_waste_company_logo.jpeg" alt="Green Waste Company logo with white background and green text and drawings of vegetables">
+		<figcaption class="text-center">
+			(Green Waste Company Logo. Source: Green Waste Company.)
+		</figcaption>
+</div>
 
 One issue facing us as we started our journey to reduce food waste via compost was that we don't have a garden or similar place for it to go. Another was our HOA and immediate neighbors--how would they react to the smell of decomposing food in our backyard? And what about keeping animals out?
 
@@ -55,7 +69,12 @@ The company was very prompt in processing our order. We placed the order on a Su
 
 ### Composting
 
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/green_waste_company_container_open.png">
+<div>
+	<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/green_waste_company_container_open.png" alt="Black compost bucket sitting on hardwood floor with lid off to show shredded paper inside">
+		<figcaption class="text-center">
+			(Shredded paper can be included in the compost. Source: Samantha Carson)
+		</figcaption>
+</div>
 
 Green Waste Company's website provides a fairly comprehensive list of items that can be included in your compost, and its social media posts have yielded a few additional pleasant surprises. Not only can food scraps and yard waste be included, but also paper products such as shredded paper and cardboard. We have a small shredder and have been using it quite often, resulting in a great deal of shredded paper we weren't sure how to dispose of. We're now including it in our compost bucket. We're also putting paper products like paper towels and napkins in, as well as cardboard items such as paper towel and toilet paper tubes and other items like dryer lint.
 
