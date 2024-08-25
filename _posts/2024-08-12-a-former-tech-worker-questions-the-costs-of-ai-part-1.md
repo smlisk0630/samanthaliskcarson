@@ -4,8 +4,12 @@ title: A Former Tech Worker Questions the Environmental Costs of AI
 subtitle: Are we really willing to sacrifice the planet for this technology?
 tags: AI Environment Technology Ethics Climate Change
 ---
-
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/scarlet_macaw.jpg">
+<div>
+  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/scarlet_macaw.jpg" alt="Scarlet macaw standing on a branch and looking at the camera with pink and purple flowers in the background">
+    <figcaption class="text-center">
+      (Scarlet macaw. Image by German Rojas on Pixabay.)
+    </figcaption>
+</div>
 
 *(NOTE: This post represents my personal views about AI in my capacity as a private individual. It does not represent the views of any of my previous or current employers or promote their products or services.)*
 
@@ -29,7 +33,12 @@ Yet relatively few of the numerous articles, blog posts, videos, and other media
 
 #### Water
 
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/water_droplet.jpg">
+<div>
+  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/water_droplet.jpg" alt="Water drop at the tip of a leaf">
+    <figcaption class="text-center">
+      (Water drop at the tip of a leaf. Photo by Pixabay on Pexels.)
+    </figcaption>
+</div>
 
 One of the biggest problems is the amount of water AI requires. According to researchers [Li, Yang, Islam, and Ren](https://arxiv.org/abs/2304.03271), training GPT-3 resulted in 700,000 liters of water evaporated, while it is estimated that global demand for AI in 2027 will lead to 4.2-6.6 billion--yes, billion--cubic meters withdrawn. ("Withdrawal" refers to freshwater removed from either the ground or the surface and then used for purposes of agriculture, industry, or municipality.) 
 
@@ -56,7 +65,12 @@ It's the fact that these companies know all of this, yet they're proceeding with
 
 #### Electricity
 
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/light-bulbs_on_string.jpg">
+<div>
+  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/light-bulbs_on_string.jpg" alt="Two electric light bulbs strung up and turned on.">
+    <figcaption class="text-center">
+      (Electric light bulbs. Image by Pexels from Pixabay.)
+    </figcaption>
+</div>
 
 Electricity has nearly become a buzzword in itself in the realm of climate change. Together with carbon emissions, it is also one of the factors that is usually mentioned on the rare occasions when the environmental costs of AI are discussed in the media. The result is often a recommendation, not to cease using or producing AI completely, but to do so in more energy-efficient ways.
 
@@ -74,7 +88,12 @@ Which brings us to carbon.
 
 #### Carbon
 
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/coal-fired-power-plant.jpg">
+<div>
+  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/coal-fired-power-plant.jpg" alt="Coal-fired power plant with steam rising out of cooling towers"><figcaption class="text-center">
+    <figcaption>  
+      (Coal-fired power plant. Image by Benita Welter from Pixabay.)
+    </figcaption>
+</div>
 
 In its [2023 Environmental Sustainability Report](https://sustainability.google/reports/google-2023-environmental-report/), Google reports that its emissions for 2022 were around 10.2M tCO2e (million metric tons of carbon dioxide equivalent). This amount [increased](https://sustainability.google/reports/google-2024-environmental-report/) in 2023 to 14.3M tCO2e. Microsoft's numbers were even higher, coming in at approximately 12.9M tCO2e in [2022](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15mgm) and 16.7M tCO2e in [2023](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1lMjE). Both companies support carbon removal projects in spite of [numerous difficulties](https://www.technologyreview.com/2021/07/08/1027908/carbon-removal-hype-is-a-dangerous-distraction-climate-change/) involved in such projects as well as [evidence](https://www.nature.com/articles/s41558-021-01061-2.epdf?sharing_token=CjaDTtufzMucWJd-CVaLB9RgN0jAjWel9jnR3ZoTv0MsF9C-5-lW4e8WuWcsjUmFXNP3-oLLKv4JnBbVyydJ-hj0VqLQpXr5vL9kOyapBeMvMoG9tNQFZUEw1oXHG7P1VF0QfDPE56ATEmEGBoQlqDWOhtwjHrJnFY_NRC--9pMNOTjXpW8wdTISpCqKKlex0Z9Kn0VqJuluekH2j7yhnqfJXx30AhpZFMRZZIQuV3o%3D&tracking_referrer=www.technologyreview.com) that carbon removal may be less effective than simply avoiding emissions altogether.
 
