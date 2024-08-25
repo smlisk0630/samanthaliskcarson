@@ -89,8 +89,8 @@ Which brings us to carbon.
 #### Carbon
 
 <div>
-  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/coal-fired-power-plant.jpg" alt="Coal-fired power plant with steam rising out of cooling towers"><figcaption class="text-center">
-    <figcaption>  
+  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/coal-fired-power-plant.jpg" alt="Coal-fired power plant with steam rising out of cooling towers">
+  <figcaption class="text-center">    
       (Coal-fired power plant. Image by Benita Welter from Pixabay.)
     </figcaption>
 </div>
