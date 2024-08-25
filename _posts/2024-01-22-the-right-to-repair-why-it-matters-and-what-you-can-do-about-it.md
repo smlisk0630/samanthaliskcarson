@@ -6,7 +6,7 @@ tags: zerowaste repair sustainability RighttoRepair NorthCarolina
 
 <div>
   <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/tools.jpg" alt="Assortment of tools on a hardwood floor">
-    <figcaption class="justify-items-center">
+    <figcaption class="text-center">
       (Assortment of tools on a hardwood floor. Photo by picjumbo_com on Pixabay.)
     </figcaption> 
 </div>
@@ -45,7 +45,7 @@ Three weeks later, President Joe Biden issued an [executive order](https://www.
 
 <div>
   <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/farm-equipment.jpg" alt="Heavy-duty farm equipment sitting in a field">
-    <figcaption class="justify-items-center">
+    <figcaption class="text-center">
       (Heavy-duty farm equipment. Photo by Barescar90 on Pixabay.)
     </figcaption>
 </div>
@@ -74,7 +74,7 @@ However, while the safety of the product, technician, and user should always be 
 
 <div>
   <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/stove-dials.jpg" alt="Stainless range dials">
-    <figcaption class="justify-items-center">
+    <figcaption class="text-center">
       (Stainless range dials. Photo by mgattorna on Pixabay.)
     </figcaption>
 </div>
@@ -95,7 +95,7 @@ Although many of the major manufacturers have not been in favor, there are some 
 
 <div>
   <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/mobile_phones_cases_removed.jpg" alt="Inside of a mobile phone">
-    <figcaption class="justify-items-center">
+    <figcaption class="text-center">
       (Inside of a mobile phone. Photo by Bru-nO on Pixabay.)
     </figcaption>
 </div>
