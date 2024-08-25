@@ -1089,7 +1089,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: var(--tw-prose-captions);
   font-size: 0.875em;
   line-height: 1.4285714;
-  margin-top: 0.3em;
+  margin-top: 0.8571429em;
 }
 
 .prose :where(code):not(:where([class~="not-prose"] *)) {
