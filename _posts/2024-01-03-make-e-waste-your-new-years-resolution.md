@@ -5,7 +5,7 @@ tags: zerowaste sustainability life electronics NorthCarolina
 ---
 <div>
   <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/broken_mobile_phones.jpg" alt="Several broken mobile phones">
-    <figcaption class="justify-items-center">
+    <figcaption class="text-center">
       (Broken mobile phones. Photo by andreahuyoff on Pixabay.)
     </figcaption>
 </div>
@@ -28,7 +28,7 @@ However, what about situations such as the holidays when many people receive rep
 
 <div>
   <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/discarded_computers.jpg" alt="Discarded computer towers and monitors in dumpster">
-    <figcaption class="justify-items-center">
+    <figcaption class="text-center">
       (Computer equipment collected as scrap metal. Photo by dokumol on Pixabay.)
     </figcaption>
 </div>
@@ -60,7 +60,7 @@ If you’d like to make a little extra money in addition to keeping your old dev
 
 <div>
   <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/person_repairing_computer-part.jpg" alt="A hand repairing a circuit board">
-    <figcaption class="justify-items-center">
+    <figcaption class="text-center">
       (Repairing a circuitboard. Photo by jarmoluk on Pixabay.)
     </figcaption>
 </div>
