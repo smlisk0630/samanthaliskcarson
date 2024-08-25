@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Right to Repair: Why It Matters and What You Can Do About It
+title: The Right to Repair - Why It Matters and What You Can Do About It
 tags: zerowaste repair sustainability RighttoRepair NorthCarolina
 ---
 
