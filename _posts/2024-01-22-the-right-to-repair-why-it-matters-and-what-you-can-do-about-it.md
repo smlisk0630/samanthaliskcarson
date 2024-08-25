@@ -4,7 +4,12 @@ title: The Right to Repair - Why It Matters and What You Can Do About It
 tags: zerowaste repair sustainability RighttoRepair NorthCarolina
 ---
 
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/tools.jpg">
+<div>
+  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/tools.jpg" alt="Assortment of tools on a hardwood floor">
+    <figcaption class="justify-items-center">
+      (Assortment of tools on a hardwood floor. Photo by picjumbo_com on Pixabay.)
+    </figcaption> 
+</div>
 
 When was the last time you fixed a broken item?
 
@@ -38,7 +43,12 @@ In June 2021, a bill known as the [Fair Repair Act, or HR 4006](https://www.con
 
 Three weeks later, President Joe Biden issued an [executive order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/) that, among other things, called on the Federal Trade Commission (FTC) to issue rules to regulate “unfair anticompetitive restrictions on third-party repair or self-repair of items, such as the restrictions imposed by powerful manufacturers that [prevent farmers from repairing their own equipment](https://www.wired.com/2015/02/new-high-tech-farm-equipment-nightmare-farmers/).”
 
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/farm-equipment.jpg">
+<div>
+  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/farm-equipment.jpg" alt="Heavy-duty farm equipment sitting in a field">
+    <figcaption class="justify-items-center">
+      (Heavy-duty farm equipment. Photo by Barescar90 on Pixabay.)
+    </figcaption>
+</div>
 
 ![Photo of large farm equipment in a field](https://towardzerowaste.org/wp-content/uploads/2024/01/farm-equipment-1903161_1280.jpg "farm-equipment-1903161_1280")
 
@@ -62,7 +72,12 @@ The majority of opposition has come from manufacturers and their authorized or c
 
 However, while the safety of the product, technician, and user should always be a key consideration, the FTC’s 2021 report [_Nixing the Fix: An FTC Report to Congress on Repair Restrictions_](https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf), repudiates the claim that such considerations should restrict product repairability. The report notes that manufacturers can lessen the risks by making available the tools and parts necessary, and it also suggests that manufacturers not doing so may actually be making safety issues worse. On a practical level, _Consumer Reports_ released [a survey](https://article.images.consumerreports.org/prod/content/dam/surveys/Consumer_Reports_Right_to_Repair_Survey_2021) in 2021 in which it found that most respondents who had ever had a vehicle, small home appliance, or large home appliance fixed both at an authorized location and an independent shop felt the quality of workmanship and parts was about the same in both places. Only for smartphones did respondents feel that the quality of parts was slightly better at the authorized location, and they felt that the quality of workmanship was about the same in both.
 
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/stove-dials.jpg">
+<div>
+  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/stove-dials.jpg" alt="Stainless range dials">
+    <figcaption class="justify-items-center">
+      (Stainless range dials. Photo by mgattorna on Pixabay.)
+    </figcaption>
+</div>
 
 Another claim is that attempting a repair will void the product’s warranty. However, passage of the [Magnuson-Moss Warranty Act](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-chapter50&edition=prelim) 1975 made it illegal for manufacturers to void a warranty due to the use of third-party repairs or aftermarket parts, as long as those repairs or parts don’t damage the product. Unfortunately, most consumers do not seem to realize this, as the majority of respondents to the _Consumer Reports_ survey indicated that even just the perception that they might void the manufacturer’s warranty would prevent them from choosing an independent repairer for their product.
 
@@ -78,7 +93,12 @@ As consumers have continued to self-repair or use independent options, manufactu
 
 Although many of the major manufacturers have not been in favor, there are some companies that support the consumer’s Right to Repair. For example, Amsterdam-based electronics company [Fairphone](https://www.fairphone.com/en/) focuses on sustainability, producing mobile phones and headphones that can be fixed by owners. The company sells spare parts and provides video tutorials on its website. Likewise, laptop company [Framework](https://frame.work/) makes modular laptops that owners can order pre-configured or put together a customized kit of modules to assemble a customized machine. They also sell tools and parts to enable owners to repair and upgrade their devices themselves, providing how-to guides on their website with instructions, videos, and annotated images. Even major companies like [Apple](https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/) and [Samsung](https://www.google.com/search?q=apple+right+to+repair&rlz=1C9BKJA_enUS735US737&oq=apple+right+to+repair&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8Mg4IAhBFGCcYOxiABBiKBTIGCAMQRRg8MgYIBBBFGDwyDQgFEAAYkQIYgAQYigUyDQgGEAAYkQIYgAQYigUyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg4MDM0ajBqNKgCALACAA&hl=en-US&sourceid=chrome-mobile&ie=UTF-8) are starting to get on board the repair bus by offering repair kits to individuals and independent shops, although so far [the results have been mixed](https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on).
 
-<img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/mobile_phones_cases_removed.jpg">
+<div>
+  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/mobile_phones_cases_removed.jpg" alt="Inside of a mobile phone">
+    <figcaption class="justify-items-center">
+      (Inside of a mobile phone. Photo by Bru-nO on Pixabay.)
+    </figcaption>
+</div>
 
 ### Your Right to Repair
 
