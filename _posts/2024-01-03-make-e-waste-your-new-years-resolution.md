@@ -76,3 +76,7 @@ Recycling electronics [can be difficult](https://towardzerowaste.org/2022/07/14
 - Wake County [Convenience Centers](https://www.wake.gov/departments-government/waste-recycling/facilities/convenience-centers)
 
 You can also use websites such as [Earth911’s Recycling Search database](https://search.earth911.com/?utm_source=earth911-header&_ga=2.24075704.307805039.1703701291-177571653.1702387628) or the [Consumer Technology Association’s Recycle Locator](https://www.cta.tech/Landing-Pages/Greener-Gadgets/Recycle-Locator#/) to find local retailers and organizations that accept your device.
+
+***
+
+*Originally published at [Toward Zero Waste](https://towardzerowaste.org/2024/01/03/make-e-waste-your-new-years-resolution/) on January 3, 2024.*
