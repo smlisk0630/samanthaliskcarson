@@ -28,7 +28,7 @@ Before the IRA was revised, the amount of the tax credit for new EVs was calcula
 
 - The base amount of the credit started at $2,500
 - $417 was then added if the vehicle's battery capacity was at least five kilowatt hours
-- Another $\$$417 was then added on top of that amount for every kilowatt hour above five until the maximum amount for the credit--$7,500--was reached
+- Another `$`417 was then added on top of that amount for every kilowatt hour above five until the maximum amount for the credit--$7,500--was reached
 
 Under the [revised law](https://www.govinfo.gov/content/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf), while the maximum amount has not changed, the way that amount is calculated has, and the new calculations are all about location, location, location.
 
@@ -64,7 +64,7 @@ If you bought or are thinking of buying a used EV, you may also qualify for a ta
 - The sale price of the vehicle must be $25,000 or less--used EVs priced higher than that amount do not qualify.
 - The amount of the credit may be either 1) $4,000 or 2) 30% of the sale price--whichever amount is lower.
 - The taxpayer's modified adjusted gross income (MAGI) for this tax year or the previous tax year must not exceed a certain amount ($$150,000 for a joint return or surviving spouse; $112,500 for a head of household; and $75,000 for any other taxpayer)
--  If the vehicle was bought and sold more than once after August 16, 2022 (the date on which the IRA was signed into law), it does not qualify for a tax credit by the time you purchase it. Your purchase of the vehicle after that date must be the first time it has been bought by anyone other than the original owner.
+- If the vehicle was bought and sold more than once after August 16, 2022 (the date on which the IRA was signed into law), it does not qualify for a tax credit by the time you purchase it. Your purchase of the vehicle after that date must be the first time it has been bought by anyone other than the original owner.
 - You must be buying the vehicle for your personal use, not to re-sell it.
 - You can only get the tax credit one time every three years. If you buy the vehicle and get the credit for it, then sell it to someone else and buy another before three years have passed, you will not qualify for the credit for the subsequent vehicle.
 - You cannot be a dependent listed on anyone else's tax return
