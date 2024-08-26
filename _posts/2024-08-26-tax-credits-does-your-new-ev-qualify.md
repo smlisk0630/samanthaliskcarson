@@ -27,8 +27,8 @@ Drivers of qualifying new plugin EVs [have been eligible](https://www.federalreg
 Before the IRA was revised, the amount of the tax credit for new EVs was calculated based on the capacity of their battery as follows:
 
 - The base amount of the credit started at $2,500
-- $417 was then added if the vehicle's battery capacity was at least five kilowatt hours
-- Another $417 was then added on top of that amount for every kilowatt hour above five until the maximum amount for the credit--$7,500--was reached
+- /$417 was then added if the vehicle's battery capacity was at least five kilowatt hours
+- Another /$417 was then added on top of that amount for every kilowatt hour above five until the maximum amount for the credit--$7,500--was reached
 
 Under the [revised law](https://www.govinfo.gov/content/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf), while the maximum amount has not changed, the way that amount is calculated has, and the new calculations are all about location, location, location.
 
