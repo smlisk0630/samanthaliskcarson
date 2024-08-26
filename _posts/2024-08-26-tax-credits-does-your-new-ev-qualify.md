@@ -51,9 +51,9 @@ But what do these requirements have to do with location?
 There are also additional requirements that must be met:
 
 - The vehicle must have had its final assembly in North America
-- The taxpayer's modified adjusted gross income (MAGI) must not exceed a certain amount ($$300,000 for a joint return or surviving spouse; $225,000 for a head of household; and $110,000 for any other taxpayer)
+- The taxpayer's modified adjusted gross income (MAGI) must not exceed a certain amount ($$300,000 for a joint return or surviving spouse; $$225,000 for a head of household; and $$110,000 for any other taxpayer)
 - Only one credit may be claimed per VIN. Once it's applied to a given VIN, it can't be applied to that VIN again, even if the vehicle changes ownership. The VIN must be included on the taxpayer's tax return for the year the credit is claimed.
-- The vehicle's Manufacturer's Suggested Retail Price (MSRP) must not exceed a certain amount ($$80,000 for a van; $80,000 for an SUV; $$80,000 for a pickup truck; and $55,000 for any other vehicle)
+- The vehicle's Manufacturer's Suggested Retail Price (MSRP) must not exceed a certain amount ($$80,000 for a van; $$80,000 for an SUV; $$80,000 for a pickup truck; and $$55,000 for any other vehicle)
 
 The taxpayer may--but is not required to--transfer the credit to another entity, such as a dealer. This is one way of claiming the credit, and it can reduce the sale price of the vehicle at time of purchase. The other, more direct way of claiming the credit is to file [Form 8936, Clean Vehicle Credit](https://www.irs.gov/forms-pubs/about-form-8936). 
 
