@@ -1,6 +1,6 @@
 # About
 
-This repo hosts my professional website.
+This repo hosts my professional website. You can view the website [here](https://samanthaliskcarson.com/).
 
 # Credits
 
