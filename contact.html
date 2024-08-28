@@ -3,6 +3,12 @@ layout: page
 title: Contact
 permalink: /contact.html
 ---
+<script src="https://www.google.com/recaptcha/api.js"></script>
+    <script>
+        function onSubmit() {
+            document.getElementById("myForm").submit()
+        }
+</script>
 
 <form
   action="https://formspree.io/f/xwpeynne"
@@ -30,8 +36,8 @@ permalink: /contact.html
       <textarea class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-message" type="text" placeholder="Message" name="message"></textarea>
     </div>
     <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
-    <div class="g-recaptcha" data-sitekey="6Lc1MDEqAAAAAAjzB7dleEKkVEl8oXhq_ZhzZmhF"></div>
-    <button class="bg-purple-200 text-white-700 border border-gray-200 rounded" type="submit" value="submit">Submit</button>
+    <!--<div class="g-recaptcha" data-sitekey="6Lc1MDEqAAAAAAjzB7dleEKkVEl8oXhq_ZhzZmhF"></div>-->
+    <button class="bg-purple-200 text-white-700 border border-gray-200 rounded g-recaptcha" data-sitekey="6Lc1MDEqAAAAAAjzB7dleEKkVEl8oXhq_ZhzZmhF" type="submit" value="submit">Submit</button>
     </div>
   </div>
 </form>
