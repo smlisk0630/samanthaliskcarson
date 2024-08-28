@@ -669,6 +669,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-top-width: 1px;
 }
 
+/* Border-top styling added on 8/28/24 */
+.border-b {
+  border-bottom-width: 1px;
+} 
+
 .border-transparent {
   border-color: transparent;
 }
@@ -681,6 +686,12 @@ Ensure the default browser behavior of the `hidden` attribute.
 .border-blue-500 {
   --tw-border-opacity: 1;
   border-color: rgb(59 130 246 / var(--tw-border-opacity));
+}
+
+/* Border-indigo styling added on 8/28/24 */
+.border-indigo-500 {
+  --tw-border-opacity: 1;
+  border-color: rgb(224 231 255 / var(--tw-border-opacity));
 }
 
 .bg-white {
