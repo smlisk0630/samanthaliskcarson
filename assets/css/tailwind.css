@@ -671,7 +671,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 /* Border-top styling added on 8/28/24 */
 .border-b {
-  border-bottom-width: 1px;
+  border-bottom-width: 3px;
 } 
 
 .border-transparent {
