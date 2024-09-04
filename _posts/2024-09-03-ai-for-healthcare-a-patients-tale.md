@@ -1,9 +1,3 @@
----
-layout: post
-title: AI for Healthcare - A Patient’s Tale
-subtitle: At least they asked for my consent?
-tags: Technology Healthcare Society Culture AI
----
 <div>
   <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/white_robot_outstretched_hand.jpg" alt="A white robot extends its hand to the viewer, many-jointed fingers outstretched in preparation to grasp something, perhaps mind-numbing piles of paperwork">
     <figcaption class="text-center">
