@@ -1,10 +1,3 @@
-<div>
-  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/white_robot_outstretched_hand.jpg" alt="A white robot extends its hand to the viewer, many-jointed fingers outstretched in preparation to grasp something, perhaps mind-numbing piles of paperwork">
-    <figcaption class="text-center">
-      (AI has expanded to the healthcare sector. Photo by <a href="https://unsplash.com/@possessedphotography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Possessed Photography</a> on <a href="https://unsplash.com/photos/closeup-photo-of-white-robot-arm-jIBMSMs4_kA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash.</a>)
-    </figcaption>
-</div>
-
 It started off like any other paperwork in the American healthcare system.
 
 I’ve always appreciated online check-ins. As an introvert, the fewer of my fellow humans I have to interact with in person, the happier I am.
