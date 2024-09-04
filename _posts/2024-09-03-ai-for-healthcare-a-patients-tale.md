@@ -1,3 +1,17 @@
+---
+layout: post
+title: AI for Healthcare - A Patient’s Tale
+subtitle: At least they asked for my consent?
+tags: Technology Healthcare Society Culture AI
+---
+
+<div>
+  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/white_robot_outstretched_hand.jpg" alt="A white robot extends its hand to the viewer, many-jointed fingers outstretched in preparation to grasp something, perhaps mind-numbing piles of paperwork">
+    <figcaption class="text-center">
+      (AI has expanded to the healthcare sector. Photo by <a href="https://unsplash.com/@possessedphotography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Possessed Photography</a> on <a href="https://unsplash.com/photos/closeup-photo-of-white-robot-arm-jIBMSMs4_kA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash.</a>)
+    </figcaption>
+</div>
+
 It started off like any other paperwork in the American healthcare system.
 
 I’ve always appreciated online check-ins. As an introvert, the fewer of my fellow humans I have to interact with in person, the happier I am.
@@ -22,7 +36,7 @@ Right. Where do I start?
 
 _Audio recordings_. What audio recordings was this form talking about? To my knowledge, my conversations as a patient with this provider and any staff were not ever going to be recorded. Documented to have the relevant information pertinent to my condition on file, yes. Recorded in its entirety, no.
 
-_AI_. AI presents [numerous security risks](https://www.ncsc.gov.uk/guidance/ai-and-cyber-security-what-you-need-to-know). So does every other technology and system, true; if a system is invented by a human, [it can — and eventually will be — hacked](https://slate.com/technology/2023/02/hackers-mind-everything-is-hackable.html), as evidenced by the data breach notices that have become so common. (I just got another last week.) But which of those other systems have the same [environmental](https://medium.com/the-quantastic-journal/a-former-tech-worker-questions-the-costs-of-ai-part-1-ffb259fdf49a) and [ethical](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8826344/) [issues](https://www.coe.int/en/web/bioethics/common-ethical-challenges-in-ai#{%22123745781%22:[]}) as AI on the same scale? If there are any, we ought to be rethinking their usage too.
+_AI_. AI presents [numerous security risks](https://www.ncsc.gov.uk/guidance/ai-and-cyber-security-what-you-need-to-know). So does every other technology and system, true; if a system is invented by a human, [it can — and eventually will be — hacked](https://slate.com/technology/2023/02/hackers-mind-everything-is-hackable.html), as evidenced by the data breach notices that have become so common. (I just got another last week.) But which of those other systems have the same [environmental](https://medium.com/the-quantastic-journal/a-former-tech-worker-questions-the-costs-of-ai-part-1-ffb259fdf49a) and [ethical](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8826344/) [issues](https://www.coe.int/en/web/bioethics/common-ethical-challenges-in-ai) as AI on the same scale? If there are any, we ought to be rethinking their usage too.
 
 _Documentation_. I get it. Our healthcare professionals are overwhelmed. The system is [broken](https://www.health.harvard.edu/blog/is-our-healthcare-system-broken-202107132542). But why am I as a patient being asked to put my privacy and the security of my personal information at risk instead of fixing the actual problems with our system? AI is a technological tool, but technology is not going to save us because the problem is not technological. It’s systemic.
 
