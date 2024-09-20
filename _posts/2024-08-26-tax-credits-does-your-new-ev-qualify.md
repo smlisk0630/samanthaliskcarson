@@ -85,3 +85,7 @@ Want to check your vehicle's eligibility yourself? You can do so at [fueleconomy
 
 ## More Info
 Want to drill down into details? Check out the IRS [Clean Vehicle Tax Credits page](https://www.irs.gov/clean-vehicle-tax-credits) to learn more.
+
+***
+
+*Originally published at [Toward Zero Waste](https://towardzerowaste.org/2024/08/26/tax-credits-does-your-new-ev-qualify/) on August 26, 2024*
