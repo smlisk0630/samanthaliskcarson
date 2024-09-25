@@ -54,4 +54,4 @@ Since I declined, we’ll never know.
 
 ***
 
-*Originally published in* [Tech and Me, Loving It or Hating It]([https://medium.com/the-quantastic-journal/a-former-tech-worker-questions-the-costs-of-ai-part-1-ffb259fdf49a](https://medium.com/tech-and-me/ai-for-healthcare-a-patients-tale-00b3518bdbaa)) *on Medium on September 3, 2024*
+*Originally published in* [Tech and Me, Loving It or Hating It](https://medium.com/tech-and-me/ai-for-healthcare-a-patients-tale-00b3518bdbaa) *on Medium on September 3, 2024*
