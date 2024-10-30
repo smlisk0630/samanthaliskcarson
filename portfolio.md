@@ -24,10 +24,8 @@ permalink: portfolio
   <p>{{ year.name }}</p>
   <ul>
     {% for post in year.items %}
-      <li>
-        <div class="text-sm text-gray-400">{{post.date | date: "%b %d "}}
+        <div class="text-gray-400">{{post.date | date: "%b %d | "}}
         <a class='title' href='{{ post.url }}'>{{ post.title }}</a></div>
-      </li>
     {% endfor %}
   </ul>
 </div>
