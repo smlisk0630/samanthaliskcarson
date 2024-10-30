@@ -4,6 +4,7 @@ title: Blog
 permalink: blog
 ---
 {% comment %}
+{% raw %}
 <div>
   {% for post in site.posts %}
     <div class="py-1">
@@ -12,6 +13,7 @@ permalink: blog
     </div>
   {% endfor %}
 </div>
+{% endraw %}
 {% endcomment %}
 
 <div>
