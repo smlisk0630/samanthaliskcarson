@@ -30,6 +30,5 @@ permalink: blog
     {% endfor %}
   </ul>
 </div>
-{% endfor %} 
-</div>
+{% endfor %}
 
