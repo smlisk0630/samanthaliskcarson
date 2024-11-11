@@ -2,6 +2,7 @@
 layout: page
 title: Portfolio
 permalink: portfolio
+description: View Samantha's portfolio, including articles on the intersection of AI and the environment, how to handle e-waste, the Right to Repair, and more.
 ---
 {% comment %}
 {% raw %}
