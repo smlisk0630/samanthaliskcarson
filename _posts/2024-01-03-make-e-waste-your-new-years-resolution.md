@@ -84,7 +84,7 @@ To promote a circular economy, it’s best to keep devices in use for as long as
 Recycling electronics [can be difficult](https://towardzerowaste.org/2022/07/14/am-i-recycling-correctly/) and therefore is a [controversial option](https://www.theverge.com/2019/12/4/20992240/e-waste-recycling-electronic-basel-convention-crime-total-reclaim-fraud), especially when offered by large corporations. However, there are legitimate companies that offer electronics recycling, such as Durham-based [The ReCollective](https://therecollective.co/), Raleigh-based [Anything With a Plug Recycling](https://www.anythingwithaplugrecycling.com/), and nationwide franchise [Batteries Plus](https://www.batteriesplus.com/recycling). Recycling services are also provided by local or county governments. We have several of these in the Triangle, such as:
 
 - Cary [Citzen’s Convenience Center](https://www.carync.gov/services-publications/garbage-recycling-yard-waste/citizen-s-convenience-center)
-- City of Durham [Waste Disposal and Recycling Center](https://www.durhamnc.gov/878/Waste-Disposal-Recycling-Center) (Transfer Station) and [Television Collection](https://www.durhamnc.gov/886/Television-Collection)
+- City of Durham [Waste Disposal and Recycling Center](https://www.durhamnc.gov/878/Waste-Disposal-Recycling-Center) (Transfer Station) and [Television Collection](https://www.durhamnc.gov/832/Solid-Waste-Management#!rc-cpage=224150)
 - Fuquay-Varina [Electronic Recycling Center](https://www.fuquay-varina.org/351/Electronic-Recycling-Center)
 - Orange County [Waste and Recycling Centers](https://www.orangecountync.gov/1149/Waste-Recycling-Centers)
 - Wake County [Convenience Centers](https://www.wake.gov/departments-government/waste-recycling/facilities/convenience-centers)
