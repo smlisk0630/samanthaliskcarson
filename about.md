@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: about
+description: Samantha Lisk Carson is a freelance writer especially interested in the intersections of technology and the environment.
 ---
 
 Samantha Lisk Carson is a freelance writer and is also currently serving as the Executive Director of Operations for Toward Zero Waste. She is especially interested in the intersections of technology and the environment.
