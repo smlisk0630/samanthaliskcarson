@@ -69,3 +69,7 @@ For me, writing isn't solely a way to get my existing thoughts and ideas out; it
 None of this is to blame Fox or to claim that writing sprints won't work for anyone. Actually, I think they can be very useful for the right type of task. For example, I think content creators and fiction writers could benefit from sprints, as could anyone in need of an exercise to break up writers' block or to just get started and put something on the page. There is definitely a place for writing sprints.
 
 It's just not in my writing.
+
+***
+
+*Originally published in* [The Writing Cooperative](https://medium.com/writing-cooperative/the-fox-and-the-tortoise-or-how-working-in-writing-sprints-made-my-writing-faster-but-not-better-87c726c0beed) *on Medium on November 14, 2024*
