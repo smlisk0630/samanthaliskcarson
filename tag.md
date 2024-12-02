@@ -2,6 +2,7 @@
 layout: tag
 title: Tags
 permalink: tag
+description: Tags used on samanthaliskcarson.com.
 ---
 
 {% for tag in site.tags %}
