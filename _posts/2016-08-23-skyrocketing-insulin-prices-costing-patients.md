@@ -5,7 +5,7 @@ subtitle: HIGH PRICES ARE FORCING DIABETES PATIENTS IN THE U.S. TO CHOOSE BETWEE
 tags: healthcare consumeradvocacy consumereducation
 ---
 <div>
-  <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/diabetes-patient-checking-levels.jpg" alt="Photo of a white hand with a drop of blood on the tip of the index finger after pricking to check their levels">
+   <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/diabetes-patient-checking-levels.jpg" alt="Photo of a white hand with a drop of blood on the tip of the index finger after pricking to check their levels">
     <figcaption class="text-center">
       (Photo by Image by <a href="https://pixabay.com/users/tesaphotography-947707/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=777002">Tesa Robbins</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=777002">Pixabay</a>
       )
@@ -30,13 +30,13 @@ Such rationing practices are concerning to medical practitioners.
 
 Dr. Mayer Davidson, professor of medicine at the Charles R. Drew University of Medicine and Science in Los Angeles has been tracking the price increases. According to his figures, the wholesale price increased by up to 62 percent from 2011 through 2013, then again by between 33 percent and 107 percent from 2013 through 2015.
 
-"This borders on the unbelievable," Davidson said while describing a particular type of insulin which "in 2001 had the wholesale price of <span>$</span>45. By last year, the cost had skyrocketed to $1,447" for the same amount of insulin per month.  
+"This borders on the unbelievable," Davidson said while describing a particular type of insulin which "in 2001 had the wholesale price of $45. By last year, the cost had skyrocketed to $1,447" for the same amount of insulin per month.  
 
 That's an increase of more than 3,115 percent.
 
 The problem is compounded by the decreasing amounts that insurance companies are willing to pay for medications, said Susan Pierce, diabetes educator at Chestnut Hill Hospital in Philadelphia.
 
-"People who paid <span>$</span>200 or less are now getting bills of <span>$</span>400, <span>$</span>500 and even more for the same amount of insulin. Meanwhile, most insurance is paying less for medications and the required co-pays are higher, so it is a double whammy that prevents the patient from getting the insulin to stay alive." 
+"People who paid $200 or less are now getting bills of $400, $500 and even more for the same amount of insulin. Meanwhile, most insurance is paying less for medications and the required co-pays are higher, so it is a double whammy that prevents the patient from getting the insulin to stay alive." 
 
 Diabetes is not a kind disease. It is "a leading cause of blindness, strokes, kidney failure, heart attacks, nerve pain and amputation of the feet and legs," says _LN_.
 
@@ -76,7 +76,7 @@ Julie Herrick Williams, communication manager at Lilly, said that it is not the 
 
 "The patient's insurer, the type of plan and the individual pharmacy all play a role in the price,'' she said. "Changes to the U.S. healthcare system are the primary driver for increased insulin cost for consumers. With the adoption of cost-sharing plans, like high-deductible health plans, more direct costs are shifting to the people who need treatments."
 
-Pharmaceutical companies make tens of billions of dollars producing insulin. The three major companies are estimated to have made between <span>$</span>12 billion and <span>$</span>14 billion from insulin sales last year.
+Pharmaceutical companies make tens of billions of dollars producing insulin. The three major companies are estimated to have made between $12 billion and $14 billion from insulin sales last year.
 
 Meanwhile, Dr. Hirsch and other healthcare professionals are lobbying to end the drastic price increases. Both Dr. Hirsch and his younger brother are diabetics. 
 
