@@ -1,6 +1,6 @@
 # About
 
-This repo hosts my professional website. You can view the website [here](https://samanthaliskcarson.com/).
+This repo hosts my freelance writing website and portfolio. You can view the website [here](https://samanthaliskcarson.com/) and the portfolio [here](https://samanthaliskcarson.com/portfolio).
 
 # Credits
 
