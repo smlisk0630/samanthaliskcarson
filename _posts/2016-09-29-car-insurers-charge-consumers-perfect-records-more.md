@@ -60,4 +60,4 @@ These findings indicate a need for regulators and policymakers through the U.S. 
 
 ***
 
-*Originally published by* [NC Consumers Council](https://web.archive.org/web/20201001073437/https://www.ncconsumer.org/news-articles/major-car-insurers-charge-moderate-income-consumers-with-perfect-driving-records-more.html) *on January 3, 2024.*
+*Originally published by* [NC Consumers Council](https://web.archive.org/web/20201001073437/https://www.ncconsumer.org/news-articles/major-car-insurers-charge-moderate-income-consumers-with-perfect-driving-records-more.html) *on September 29, 2016.*
