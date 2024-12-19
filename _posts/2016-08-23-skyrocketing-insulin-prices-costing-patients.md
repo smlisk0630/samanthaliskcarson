@@ -36,7 +36,7 @@ That's an increase of more than 3,115 percent.
 
 The problem is compounded by the decreasing amounts that insurance companies are willing to pay for medications, said Susan Pierce, diabetes educator at Chestnut Hill Hospital in Philadelphia.
 
-"People who paid <span>$</span>200 or less are now getting bills of $400, $500 and even more for the same amount of insulin. Meanwhile, most insurance is paying less for medications and the required co-pays are higher, so it is a double whammy that prevents the patient from getting the insulin to stay alive." 
+"People who paid <span>$</span>200 or less are now getting bills of <span>$</span>400, <span>$</span>500 and even more for the same amount of insulin. Meanwhile, most insurance is paying less for medications and the required co-pays are higher, so it is a double whammy that prevents the patient from getting the insulin to stay alive." 
 
 Diabetes is not a kind disease. It is "a leading cause of blindness, strokes, kidney failure, heart attacks, nerve pain and amputation of the feet and legs," says _LN_.
 
@@ -76,7 +76,7 @@ Julie Herrick Williams, communication manager at Lilly, said that it is not the 
 
 "The patient's insurer, the type of plan and the individual pharmacy all play a role in the price,'' she said. "Changes to the U.S. healthcare system are the primary driver for increased insulin cost for consumers. With the adoption of cost-sharing plans, like high-deductible health plans, more direct costs are shifting to the people who need treatments."
 
-Pharmaceutical companies make tens of billions of dollars producing insulin. The three major companies are estimated to have made between $12 billion and $14 billion from insulin sales last year.
+Pharmaceutical companies make tens of billions of dollars producing insulin. The three major companies are estimated to have made between <span>$</span>12 billion and <span>$</span>14 billion from insulin sales last year.
 
 Meanwhile, Dr. Hirsch and other healthcare professionals are lobbying to end the drastic price increases. Both Dr. Hirsch and his younger brother are diabetics. 
 
