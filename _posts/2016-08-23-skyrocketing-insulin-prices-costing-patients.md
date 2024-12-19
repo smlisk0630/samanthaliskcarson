@@ -30,13 +30,13 @@ Such rationing practices are concerning to medical practitioners.
 
 Dr. Mayer Davidson, professor of medicine at the Charles R. Drew University of Medicine and Science in Los Angeles has been tracking the price increases. According to his figures, the wholesale price increased by up to 62 percent from 2011 through 2013, then again by between 33 percent and 107 percent from 2013 through 2015.
 
-"This borders on the unbelievable," Davidson said while describing a particular type of insulin which "in 2001 had the wholesale price of $45. By last year, the cost had skyrocketed to $1,447" for the same amount of insulin per month.  
+"This borders on the unbelievable," Davidson said while describing a particular type of insulin which "in 2001 had the wholesale price of <span>$</span>45. By last year, the cost had skyrocketed to $1,447" for the same amount of insulin per month.  
 
 That's an increase of more than 3,115 percent.
 
 The problem is compounded by the decreasing amounts that insurance companies are willing to pay for medications, said Susan Pierce, diabetes educator at Chestnut Hill Hospital in Philadelphia.
 
-"People who paid $200 or less are now getting bills of $400, $500 and even more for the same amount of insulin. Meanwhile, most insurance is paying less for medications and the required co-pays are higher, so it is a double whammy that prevents the patient from getting the insulin to stay alive." 
+"People who paid <span>$</span>200 or less are now getting bills of $400, $500 and even more for the same amount of insulin. Meanwhile, most insurance is paying less for medications and the required co-pays are higher, so it is a double whammy that prevents the patient from getting the insulin to stay alive." 
 
 Diabetes is not a kind disease. It is "a leading cause of blindness, strokes, kidney failure, heart attacks, nerve pain and amputation of the feet and legs," says _LN_.
 
