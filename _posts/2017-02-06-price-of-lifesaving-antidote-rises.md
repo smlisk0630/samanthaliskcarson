@@ -9,6 +9,7 @@ tags: healthcare consumeradvocacy consumereducation
     <figcaption class="text-center">
       (Photo by <a href="https://www.pexels.com/@towfiqu-barbhuiya-3440682/">Towfiqu barbhuiya</a> from <a href="https://www.pexels.com/photo/an-injured-person-holding-assorted-medicine-8732779/">Pexels</a>)
     </figcaption>
+</div>
 
 Another day, another drastic increase in the price of a lifesaving medication.
 
