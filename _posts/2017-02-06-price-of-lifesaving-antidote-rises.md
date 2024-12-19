@@ -23,7 +23,7 @@ One difference between Evzio and the EpiPen is that Evzio includes a mechanism t
 
 The Food and Drug Administration (FDA) estimates that Evzio accounted for almost 20 percent of naloxone dispensed through retailers between 2015 and 2016 as well as almost half of all naloxone products that were prescribed to patients between the ages of 40 and 64, the group making up the majority of the drug's users.
 
-The cost of naloxone in generic, injectable form, which has been marketed since 1971, has been rising. Researchers say that a 10-mililiter vial sold by one of the dominant vendors costs nearly $150, which is more than twice the cost of the drug from even a few years ago and is much higher than it costs to produce the naloxone chemical. The other common injectable medication, which is produced in a smaller but more powerful dose, costs nearly $40, an amount that is still almost twice its cost in 2009.
+The cost of naloxone in generic, injectable form, which has been marketed since 1971, has been rising. Researchers say that a 10-mililiter vial sold by one of the dominant vendors costs nearly <span>$</span>150, which is more than twice the cost of the drug from even a few years ago and is much higher than it costs to produce the naloxone chemical. The other common injectable medication, which is produced in a smaller but more powerful dose, costs nearly <span>$</span>40, an amount that is still almost twice its cost in 2009.
 
 The price hike is still much higher than production costs require, according to experts, and it is an unnecessary drain of healthcare resources.
 
