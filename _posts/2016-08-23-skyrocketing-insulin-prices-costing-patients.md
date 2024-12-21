@@ -77,6 +77,4 @@ Meanwhile, Dr. Hirsch and other healthcare professionals are lobbying to end the
 
 **Source**: [*Lee Newspapers*](https://missoulian.com/news/state-and-regional/insulin-price-spike-leaves-diabetes-patients-in-crisis/article_bd14b43c-3f4c-5343-a2d7-10e2e6a8a091.html)
 
-***
-
 *Originally published by* [NC Consumer Council](https://web.archive.org/web/20160923155304/https://www.ncconsumer.org/news-articles/skyrocketing-insulin-prices-costing-patients-food-rent-limbs-and-lives.html) *on August 23, 2016*
