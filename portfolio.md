@@ -31,6 +31,6 @@ description: View Samantha's portfolio, including articles on the intersection o
     </li>
     {% endfor %}
   </ul>
-</div>
+
 {% endfor %}
 
