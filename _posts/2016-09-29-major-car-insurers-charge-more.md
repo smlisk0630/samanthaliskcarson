@@ -13,7 +13,7 @@ tags: insurance consumeradvocacy consumereducation
 
 New research conducted by the Consumer Federation of America (CFA) has revealed that major auto insurers frequently charge moderate-income consumers who have perfect driving records more than high-income consumers with recent accidents.
 
-### **THE RESULTS**
+### THE RESULTS
 
 The agency tested premiums offered by the five largest insurers in the U.S. in 10 cities across the country for drivers who have different socio-economic situations and driving records. The experiment yielded surprising results, including:
 
@@ -26,7 +26,7 @@ The agency tested premiums offered by the five largest insurers in the U.S. in 1
 
 A survey conducted in June 2016 by ORC on behalf of the CFA showed that the majority of people believe that it is fair for vehicle insurance companies to set premiums using at-fault auto accidents and moving violations, but not using factors connected to economic status. The poll surveyed 1,000 Americans, more than four-fifths of whom said that they believed it was fair for insurers to take at fault traffic accidents (84 percent) and moving violations (85 percent) into account when pricing plans. However, few said that they believed it was fair for insurance companies to use consumers' levels of education (29 percent), marital status (32 percent), occupation (35 percent), lack of previous coverage due to not possessing a vehicle (30 percent), or homeownership (35 percent) when setting insurance premiums.
 
-### **THE EXPERIMENT**
+### THE EXPERIMENT
 
 To conduct its research, the CFA requested online automotive insurance quotes for two drivers—one who had the socio-economic characteristics of a moderate-income American, and one who had those of an upper-income American—in 10 cities across the U.S. For each driver, the agency requested the price of the minimum liability policy required by law in that state, assuming the driver had a perfect record; then it requested quotes for basic coverage in which the driver reported different kinds of accidents and violations, e.g. an at-fault accident that resulted in bodily injury and a DUI conviction.
 
@@ -36,7 +36,7 @@ The agency made 600 coverage requests in all and received 464. Of the 136 reques
 
 The insurers tested included Allstate, Farmers, GEICO, Progressive, and State Farm, and the cities included Atlanta, Baltimore, Chicago, Jacksonville, Jersey City, Los Angeles, Kansas City, Minneapolis, Oklahoma City, and Queens in New York City. CFA tested each for two female drivers residing at the same address, both of whom were 30 years old, had been licensed for 14 years, and were driving a 2006 Toyota Camry for 10,000 miles per year. The only differences between the drivers were personal characteristics that correlated with income.
 
-### **SURPRISING FINDINGS**
+### SURPRISING FINDINGS
 
 The CFA found that, two-thirds of the time, a good driver who earns only a moderate income is charged more for a basic auto insurance policy than is a driver who earns a high income but has been convicted of a DUI within the past year. The companies offered an automotive insurance quote to both drivers in 30 instances, and the good, lower-income driver paid more in 21 of those instances.
 
@@ -52,7 +52,7 @@ Drivers with clean records and moderate incomes were charged $1,539 for basic po
 
 Even drivers who have multiple points on the record often pay less than safe drivers as long as they have high incomes, the study shows. In 53 percent of instances (19 out of 36) in which it was possible to compare, drivers with both a recent accident as well as a violation on their records and who had high incomes were charged less for a premium than drivers with clean records but lower incomes. GEICO and Progressive followed this pattern consistently, but State Farm, Allstate, and Farmers rarely did so.
 
-### **TAKING ACTION**
+### TAKING ACTION
 
 These findings indicate a need for regulators and policymakers through the U.S. to take action regarding how auto insurers price policies.
 
