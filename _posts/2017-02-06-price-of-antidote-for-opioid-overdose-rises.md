@@ -7,7 +7,7 @@ tags: healthcare consumeradvocacy consumereducation
 <div>
   <img class="mx-auto w-1/2" src="https://samanthaliskcarson.com/assets/img/arm-bandage-pills.jpg" alt="A person's left arm is encased in a cast and the right hand is holding several medications">
     <figcaption class="text-center">
-      Photo by <a href=""https://www.pexels.com/@towfiqu-barbhuiya-3440682/>Towfiqu barbhuiya</a> from <a href="https://www.pexels.com/photo/an-injured-person-holding-assorted-medicine-8732779/">Pexels</a>
+      Photo by <a href="https://www.pexels.com/@towfiqu-barbhuiya-3440682/">Towfiqu barbhuiya</a> from <a href="https://www.pexels.com/photo/an-injured-person-holding-assorted-medicine-8732779/">Pexels</a>
     </figcaption>
 </div>
 
