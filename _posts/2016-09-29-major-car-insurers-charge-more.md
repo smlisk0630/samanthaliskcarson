@@ -11,7 +11,7 @@ tags: insurance consumeradvocacy consumereducation
     </figcaption>
 </div>
 
-New research conducted by the Consumer Federation of America (CFA) has revealed that major auto insurers frequently charge moderate-income consumers who have perfect driving records more than high-income consumers with recent accidents.
+New research conducted by the Consumer Federation of America (CFA) has <a href="https://consumerfed.org/press_release/major-insurers-charge-moderate-income-customers-perfect-driving-records-high-income-customers-recent-accidents/"> revealed</a> that major auto insurers frequently charge moderate-income consumers who have perfect driving records more than high-income consumers with recent accidents.
 
 ### THE RESULTS
 
