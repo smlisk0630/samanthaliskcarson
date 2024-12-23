@@ -46,7 +46,7 @@ Similarly, drivers with high incomes who had caused an accident that led to the 
 
 Furthermore, Progressive charged moderate-income drivers with clean records more than high-income drivers with recent at-fault accidents and/or moving violations 86 percent of the time, while GEICO did the same 70 percent of the time. Out of 100 quotes provided for the high-income driver, only in 22 instances did she pay more than the moderate-income one. It was only in Los Angeles where the good drivers paid less, due to California's strong consumer protection laws.
 
-Drivers with clean records and moderate incomes were charged $1,539 for basic policies with GEICO and $1,982 with Progressive. The premiums changed significantly for drivers with high incomes and an accident and/or violation on their records: <span>$</span>1,269 with GEICO and <span>$</span>1,273 with Progressive.
+Drivers with clean records and moderate incomes were charged <span>$</span>1,539 for basic policies with GEICO and <span>$</span>1,982 with Progressive. The premiums changed significantly for drivers with high incomes and an accident and/or violation on their records: <span>$</span>1,269 with GEICO and <span>$</span>1,273 with Progressive.
 
 "The data show that Progressive and GEICO are competing vigorously for the business of upper-income drivers regardless of their driving record, and they're subsidizing that competition by overcharging moderate-income drivers with clean records.... This is unfair discrimination in my estimation and illegal in all states," said Hunter.
 
