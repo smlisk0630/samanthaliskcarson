@@ -13,7 +13,7 @@ tags: healthcare consumeradvocacy consumereducation
 
 Another day, another drastic increase in the price of a lifesaving medication.
 
-Drug manufacturer Kaleo is joining the ranks of Turing Pharmaceuticals and Mylan as a company that has dramatically raised the price of one of its drugs, a medication that has the potential to save lives, writes _Scientific American_.
+Drug manufacturer Kaleo is joining the ranks of Turing Pharmaceuticals and Mylan as a company that has dramatically raised the price of one of its drugs, a medication that has the potential to save lives, <a href="https://www.scientificamerican.com/article/massive-price-hike-for-lifesaving-opioid-overdose-antidote1/">writes</a> _Scientific American_.
 
 Kaleo produces an injector device known as Evzio, which delivers naloxone, an antidote to opioid overdoses. The device has come into demand due to the nation's epidemic of opioid use, a class of medications including heavy painkillers and heroin. It is believed that more than 33,000 people died from such overdoses in 2015. As demand has grown, the company raised the price in 2014 from <span>$</span>690 to <span>$</span>4,500.
 
