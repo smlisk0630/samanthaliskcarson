@@ -11,7 +11,7 @@ tags: insurance consumeradvocacy consumereducation
     </figcaption>
 </div>
 
-A new analysis conducted by _ProPublica_ and _Consumer Reports_ has found that auto insurance companies are charging higher premiums in minority neighborhoods than in white areas with similar levels of risk.
+A new analysis conducted by _ProPublica_ and _Consumer Reports_ has <a href="https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-white-areas-same-risk">found</a> that auto insurance companies are charging higher premiums in minority neighborhoods than in white areas with similar levels of risk.
 
 The analysis looked at premiums and payouts in California, Illinois, Texas, and Missouri. It discovered that the differences in price experienced by white and minority neighborhoods are bigger than can be explained by different levels of risk.
 
