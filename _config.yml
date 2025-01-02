@@ -10,7 +10,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Samantha Lisk Carson
-author-bio: Writer | Co-Executive Director of Toward Zero Waste # change to false to hide
+author-bio: Writer | Co-Founder of [Carson Creative LLC](www.carsoncreativeservices.com) # change to false to hide
 author-image: 2016_Headshot_copy.jpg  # file must be in the /assets/img/ folder
 
 # navigation menu
