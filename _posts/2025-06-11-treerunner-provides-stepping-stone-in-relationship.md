@@ -64,3 +64,7 @@ And we go ziplining every chance we get.
 </div>
 
 TreeRunner would also be a great place to take kids over the summer. They specifically have “Summer Adventure Camps” and junior courses for kids. If the little ones don’t want to do the courses/ziplining, they can participate in gem mining or the putt-putt course that’s on the ground and goes under the trees and zip lines.
+
+***
+
+*Originally published in* [Midtown Magazine](https://www.midtownmag.com/treerunner-provides-stepping-stone-in-relationship/) *online edition on June 11, 2025*
