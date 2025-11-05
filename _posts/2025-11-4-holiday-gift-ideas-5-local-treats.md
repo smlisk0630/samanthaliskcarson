@@ -17,7 +17,7 @@ Named for Utica, New York, but located in Apex, Utica Bakery specializes in hand
 
 Founded in 2012 by husband-and-wife team David and Joana Whittingham, Fera’wyn’s is a delightful chocolatier in Holly Springs named for the character played by Joana in the online video game through which the pair met. With a dedicated gluten-free kitchen and several goods that can also be made dairy-free, their truffles and confections have delighted the Triangle’s growing community of customers with dietary restrictions. Chocolates come in 4-piece, 5-piece, 6-piece, 12-piece, or 24-piece boxes, and can be ordered either in store or online for store pickup or shipping.
 
-652 Holly Springs Road, Holly Springs | [ferawyns.com](ferawyns.com)
+652 Holly Springs Road, Holly Springs \| [ferawyns.com](ferawyns.com)
 
 ## Macarons by Pastries by J
 
@@ -29,19 +29,19 @@ Owned by home baker Jungeun Cottrell, Pastries by J is located in Apex and speci
 
 This Cary-based Mediterranean café was started in 2001 by another husband-and-wife team, Hanadi Asad and Jamaal Ali. In fact, the name of the shop is a combination of the couple’s last names. Asali specializes in Mediterranean treats, including desserts, cakes, small plates, beverages, and more—even offering reservations for high tea. Some of their most giftable options include baklava variety boxes, which come in both small and large sizes. Orders can be placed either in person or over the phone.
 
-107 Edinburgh S. Drive, Suite 106-A, Cary | [asalidessertscafe.com](asalidessertscafe.com)
+107 Edinburgh S. Drive, Suite 106-A, Cary \| [asalidessertscafe.com](asalidessertscafe.com)
 
 ## Candies by Sugar Snap Treats
 
 Owned by Kristin Wardwell and Whitney Bascom, Sugar Snap Treats in Holly Springs takes traditional candies and adds a crunchy, freeze-dried twist. From sour saltwater taffy and gummy worms to their signature BBQ Rainbow Bites and Firecrackers, they’ve got a treat for just about everyone, regardless of taste. You may even come across them as a topping at local ice cream shops, such as Fat Cat Homemade Ice Cream in Fuquay-Varina. Bags of candies can be picked up in store or at the Holly Springs Farmers Market, or ordered online for pickup, local delivery, or shipping.
 
-5301 Yorkville Court, Holly Springs | [sugarsnaptreats.com](sugarsnaptreats.com)
+5301 Yorkville Court, Holly Springs \| [sugarsnaptreats.com](sugarsnaptreats.com)
 
 ## BONUS: Bow Wow Peanut Butter and Yogurt Cups by Pawsively Delicious Treats
 
 Located in Fuquay-Varina, Pawsitively Delicious Treats uses no additives or preservatives in their fresh, homemade treats. Owner and baker Joyce Delgado-Mistler offers a wide variety of treats for dogs and cats alike, but the Bow Wow Peanut Butter and Yogurt Cups, covered with carob (a dog-safe alternative to chocolate), are a particularly mouthwatering option for dogs. Treats can be purchased in store or online in packs of 8 and 24 or as a subscription. Pawsitively’s blog also highlights adoptable dogs from local rescues to give them a better chance at finding their forever homes.
 
-103 Raleigh Street, Fuquay-Varina | [pawsitivelydelicioustreats.com](pawsitivelydelicioustreats.com)
+103 Raleigh Street, Fuquay-Varina \| [pawsitivelydelicioustreats.com](pawsitivelydelicioustreats.com)
 
 ***
 
