@@ -11,7 +11,7 @@ The holiday season is coming up fast. Are you ready? If you’re still looking f
 
 Named for Utica, New York, but located in Apex, Utica Bakery specializes in handcrafted Italian and European pastries and baked goods. Owner Vincent DeSimone has an extensive menu of dishes both savory and sweet, so even the pickiest of eaters is sure to find something to enjoy. For a popular treat that won’t disappoint, Utica offers a 1-pound box of assorted Italian cookies that will keep your sweet tooth satisfied with a variety of flavors such as lemon-anise, cuccidati, and chocolate meatball. Boxes can sell out quickly, so be sure to preorder via Facebook Messenger or get to the bakery early.
 
-430 Upchurch Street, Apex | [uticabakery.com](uticabakery.com)
+430 Upchurch Street, Apex \| [uticabakery.com](uticabakery.com)
 
 ## Chocolates by Fera’wyn’s Artisan Chocolates
 
