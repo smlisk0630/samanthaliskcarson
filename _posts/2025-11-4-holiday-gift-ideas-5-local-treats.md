@@ -23,7 +23,7 @@ Founded in 2012 by husband-and-wife team David and Joana Whittingham, Fera’wyn
 
 Owned by home baker Jungeun Cottrell, Pastries by J is located in Apex and specializes in macarons and custom cakes. There are a wide variety of flavors available for fans of the macaron: Choose from classic flavors such as salted caramel, chocolate ganache, and coffee; fun flavors such as black sesame, chai latte, and injeolmi (roasted bean powder); and premium flavors such as s’mores, Earl Grey, and key lime pie. Gift boxes are available for purchase, with one flavor per dozen and a minimum purchase of two dozen boxes required.
 
-(pastriesbyj.com)[pastriesbyj.com]
+[pastriesbyj.com](pastriesbyj.com)
 
 ## Baklava Boxes by Asali Desserts & Café
 
