@@ -7,6 +7,8 @@ description: View Samantha's portfolio, including articles on the intersection o
 <div class="px-4 pt-4 prose prose-{{site.theme-color}}">
     {% for tag in site.tags %}
     <div class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-indigo-100 text-indigo-800">
+        <a class="!no-underline" href="{{site.baseurl}}/tag#{{ tag[0] }}">{{ tag[0] }}</a>
+    </div>
 {% endfor %}
 </div>
 
