@@ -5,7 +5,6 @@ permalink: portfolio
 description: View Samantha's portfolio, including articles on the intersection of AI and the environment, how to handle e-waste, the Right to Repair, and more.
 ---
 <div class="px-4 pt-4 prose prose-{{site.theme-color}}">
-    <h1 class="text-center mt-6 mb-6">{{ page.title }}</h1>
     {% for tag in site.tags %}
       <div class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-indigo-100 text-indigo-800">
         <a class="!no-underline" href="{{site.baseurl}}/tag#{{ tag[0] }}">{{ tag[0] }}</a>
