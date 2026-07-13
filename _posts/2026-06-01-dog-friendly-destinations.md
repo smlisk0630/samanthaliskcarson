@@ -58,7 +58,7 @@ Last but not least, the Triangle Canine Club deserves a mention, although it’s
 
 The nonprofit provides a resource for dog owners who want to meet fellow pet parents, find out about local animal advocacy organizations, and support local businesses. The Club regularly hosts fundraisers for local animal rescues as well as social events and annual festivals, often at Fenton or Boxyard RTP.
 
-Lifetime membership costs `$25` for an individual or `$40` for a household. Benefits include a T-shirt for a human, bandana for a dog, access to member-exclusive events and discounts at local businesses, and more.
+Lifetime membership costs <span>$</span>25 for an individual or <span>$</span>40 for a household. Benefits include a T-shirt for a human, bandana for a dog, access to member-exclusive events and discounts at local businesses, and more.
 
 “In 2025 we raised $12,470 for local rescues. We want that number to continue to grow year over year,” says Anna. “In addition to events that raise money for rescues, we also help sponsor at events like APS Walk for the Animals. We would love to be able to continue to increase our sponsorship amounts as well.”
 
